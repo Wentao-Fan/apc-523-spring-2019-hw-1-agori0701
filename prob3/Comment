@@ -1,0 +1,3 @@
+The final inequality in part (a) is wrong. Consider the situation where 0 < x < 1
+In (i) of part (b), derive the expression at leading order in epsilon_{a}.
+For the propagated error to be substantial, the term(s) in the relative error involving epsilon_{x} or expsilon_{a} should be comparable to 1.
