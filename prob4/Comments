@@ -1,0 +1,1 @@
+You made a mistake in part (b). You should keep track of the signs of the errors resulting from each operation and make sure that you find the maximum error. Also, do not make approximations in the intermediate steps.
